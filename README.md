@@ -53,13 +53,13 @@ This project demonstrates my Python skills for web-scraping, data cleaning, webs
 
 ## Visual Output (screenshots):
 - Bar Chart : Books per Rating
-![Bar Chart](Graphs_screenshots/Graphs/Barchart.png)
+![Bar Chart](Graphs_screenshots/Barchart.png)
 
 - Pie chart : Book Availability
-![Pie Chart](Graphs_screenshots/Graphs/Piechart_availability.png)
+![Pie Chart](Graphs_screenshots/Piechart_availability.png)
 
 - Histogram : Book Price Distribution 
-![Histogram](Graphs_screenshots/Graphs/Histogram_price_distribution.png)
+![Histogram](Graphs_screenshots/Histogram_price_distribution.png)
 
 ---
 
